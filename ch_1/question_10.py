@@ -1,3 +1,6 @@
+# 10.写一个Python 程序,判断一个输入的字符串 S,是否包含由两个或两个以上连续出现的相同字符组成的字符串。
+#    例如，abccccda 中就包含 cccc 这个由 4个连续字符c组成的字符串
+
 def has_consecutive_duplicate(s):
     consecutive_count = 1  # 用于记录连续相同字符的计数
     for i in range(len(s) - 1):

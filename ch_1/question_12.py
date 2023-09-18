@@ -1,3 +1,5 @@
+# 12.请设计一个求 3 次方根的算法(不允许直接调用求方根的函数),并给出对应的Python程序
+
 # 方法一：采用牛顿迭代法
 
 def cuberoot(n, epsilon=1e-6, max_iterations=100):

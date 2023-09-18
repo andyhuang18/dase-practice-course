@@ -1,3 +1,5 @@
+# 4.写一个Python程序，打印“数据科学与工程导论”并用 print(chr(0x2605))语句打印的星星包围起来
+
 # 打印星星
 def print_stars():
     for _ in range(10):

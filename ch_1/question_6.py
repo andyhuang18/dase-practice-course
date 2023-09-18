@@ -1,3 +1,5 @@
+# 6.写一个Python程序,有w,x,y,z 四个数,将这四个数从大到小使用 Print 函数打印出来
+
 # 获取用户输入
 w = float(input("请输入第一个数 w: "))
 x = float(input("请输入第二个数 x: "))
