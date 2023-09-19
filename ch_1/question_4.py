@@ -16,3 +16,4 @@ def print_text_with_stars(text):
 if __name__ == "__main__":
     text = "数据科学与工程导论"
     print_text_with_stars(text)
+    print_text_with_stars(text)
